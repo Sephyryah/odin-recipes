@@ -4,14 +4,14 @@ My first project from [The Odin Project](https://www.theodinproject.com/lessons/
 
 ## Description
 
-This project is a website that list multiple recipes, categorized by difficulty level.
+This project is a website that list multiple recipes, categorized by type.
 Each recipe will have a link to go to their respective webpage who detail the recipe.
 
 ## Features
 
 Here's the different features of the project:
 
-    - List of recipe categorized by difficulty
+    - List of recipe categorized by type
     - Link to the recipe's detail
 
 ## Getting Started
