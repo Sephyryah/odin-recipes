@@ -36,7 +36,7 @@ To contribute to this project, you can follow these steps :
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://fr.wikipedia.org/wiki/Licence_MIT).
 
 ## Contact
 
