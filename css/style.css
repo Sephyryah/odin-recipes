@@ -2,3 +2,7 @@ body {
     background-color: #a7cee9;
     font-family:'Gill Sans', 'Gill Sans MT', sans-serif;
 }
+
+h1 {
+    text-align: center;
+}
